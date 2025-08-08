@@ -1,0 +1,7 @@
+aiogram 
+detoxify 
+torch 
+torchvision 
+torchaudio 
+openai-whisper 
+pillow
