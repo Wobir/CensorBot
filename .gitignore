@@ -202,6 +202,7 @@ cython_debug/
 .cursorindexingignore
 
 config.yaml
+mobilenet_v2_140_224/
 
 # Marimo
 marimo/_static/
